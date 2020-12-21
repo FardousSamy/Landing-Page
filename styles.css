@@ -41,6 +41,7 @@ body {
 
 .navbar__list {
   list-style: none;
+  color: #000;
 }
 
 .navbar__item {
