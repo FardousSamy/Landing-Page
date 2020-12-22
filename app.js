@@ -1,6 +1,15 @@
 
 //smooth scrolling 
-const smoothNavLinks
+const smoothNavLinks = ()=> {
+const navLinks = document.querySelectorAll('.navbar__link');
+for (let n in navLinks){
+    if(navLinks.hasOwnProberty(n)){
+       navLinks[n].addEventListener('click', e =>)
+    }
+
+}
+
+}
 
 
 
